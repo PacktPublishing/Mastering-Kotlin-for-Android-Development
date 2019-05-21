@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="notes_item_title" type="id" />
+    <item name="notes_item_content" type="id" />
+    <item name="notes_item_favorite" type="id" />
+    <item name="notes_item_date" type="id" />
+    <item name="todo_add" type="id" />
+    <item name="main_toolbar" type="id" />
+    <item name="drawer_layout" type="id"/>
+    <item name="button_host" type="id"/>
+    <item name="notes_item_btn_favorite" type="id"/>
+    <item name="notes_item_btn_done" type="id"/>
+    <item name="recyclerview" type="id"/>
+    <item name="no_items_text" type="id"/>
+    <item name="notes_item_menu" type="id"/>
+</resources>

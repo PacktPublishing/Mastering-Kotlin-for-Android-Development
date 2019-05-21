@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_filder_pending"
+        android:title="Pending"/>
+    <item
+        android:id="@+id/menu_filter_favorites"
+        android:title="Favorites"/>
+    <item
+        android:id="@+id/menu_filter_done"
+        android:title="Done"/>
+    <item
+        android:id="@+id/menu_filter_all"
+        android:title="All"/>
+</menu>

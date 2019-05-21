@@ -1,0 +1,2 @@
+val Any.emptyString
+    get() = ""

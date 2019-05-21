@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin Notes</string>
+    <string name="action_filter">Filter</string>
+    <string name="title_activity_view_note">View Note</string>
+    <string name="title_activity_create_note">New Note</string>
+    <string name="no_items">No items</string>
+    <string name="action_favorite">Toggle favorite</string>
+    <string name="action_done">Toggle done</string>
+</resources>
